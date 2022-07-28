@@ -45,4 +45,17 @@ This project requires:
 * LECTURE NOTES
   * [OSP-Lec04-Region.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205566/OSP-Lec04-Region.pdf)
 
+  
+### 2-4. HW4 - Noise Removal & Segmentation
+* Technical Report PDF : [hw4_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205592/hw4_technical_report_SYR.pdf)
+* Segmentation 프로그램 사용결과: [Mean shift segmentation(프로그램 사용결과).pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205593/Mean.shift.segmentation.pdf)
+
+* HW introduction
+  * look at p.27-31 in LECTURE NOTE [OSP-Lec05] pdf for more information (Noise Removal)
+  * look at p.51-53 in LECTURE NOTE [OSP-Lec06] pdf for more information (Segmentation)
+
+* LECTURE NOTES
+  * [OSP-Lec05-Restoration.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205600/OSP-Lec05-Restoration.pdf)
+  * [OSP-Lec06-Segmentation.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205603/OSP-Lec06-Segmentation.pdf)
+
 
