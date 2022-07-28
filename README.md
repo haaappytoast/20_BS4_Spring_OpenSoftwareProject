@@ -66,4 +66,11 @@ This project requires:
 * LECTURE NOTES
   * [OSP-Lec07-Edge_Corner.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205629/OSP-Lec07-Edge_Corner.pdf)
 
+### 2-6. HW6 - SIFT
+* Technical Report PDF : [hw6_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205648/tech_report.6.pdf)
+
+* HW introduction: look at p.27-28 in LECTURE NOTE pdf for more information
+* LECTURE NOTES
+  * [OSP-Lec08-Descriptor.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205649/OSP-Lec08-Descriptor.pdf)
+
 
