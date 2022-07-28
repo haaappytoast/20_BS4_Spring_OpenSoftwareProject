@@ -4,7 +4,7 @@ The purpose of this project is
 2. It also introduces fundaments of deep neural networks and its application to computer vision.
 
 ## 1. Requirments
-#### Code is written in C++ (hw1 ~ 7) & python (hw 8-10) and uses Visual Studio 2019 for framework 
+#### HW1 - 7: Code is written in C++ and uses Visual Studio 2019 for framework 
 This project requires:
 * Visual Studio Community
   * Version: 2019
@@ -12,6 +12,7 @@ This project requires:
   * OpenCV 2.4.0
     * tutorial pdf: [OSP-Lec01-OpenCV_tutorial_for2.4.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205452/OSP-Lec01-OpenCV_tutorial_for2.4.pdf)
 
+#### HW8 - 10: Code is written in Python and I left google drive share link b/c of storage issues
 ----------
 
 ## 2. Introduction
