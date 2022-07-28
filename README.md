@@ -26,11 +26,23 @@ This project requires:
   * [OSP-Lec02-Display-Lab.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205468/OSP-Lec02-Display-Lab.pdf)
   
   
-### 2-1. HW2 - Rotating & Stitching
+### 2-2. HW2 - Histogram
 * Technical Report PDF : [hw2_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205535/hw2_technical_report_1770044_SYR.pdf)
 
 
 * HW introduction: look at p.34 - 44 in LECTURE NOTE pdf for more information
 * LECTURE NOTES
   * [OSP-Lec03-Pixel.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205532/OSP-Lec03-Pixel.pdf)
+  
+  
+### 2-3. HW3 - Filter & Convolution
+* Technical Report PDF : [hw3_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205570/hw3_technical_report_SYR.pdf)
+
+* Writing HW:[convolution_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205573/report.convolution._1770044.pdf) (Look at p.39 in LECTURE NOTE pdf for more information)
+
+
+* HW introduction: look at p.34 - 38 in LECTURE NOTE pdf for more information
+* LECTURE NOTES
+  * [OSP-Lec04-Region.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205566/OSP-Lec04-Region.pdf)
+
 
