@@ -74,12 +74,24 @@ This project requires:
   * [OSP-Lec08-Descriptor.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205649/OSP-Lec08-Descriptor.pdf)
 
 
-### 2-8. Affine/Hough Transformation
+### 2-7. HW7 - Affine/Hough Transformation
 * Technical Report PDF : [hw7_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205677/tech_report.7.pdf)
 
 
 * HW introduction: look at p.28-31 in LECTURE NOTE pdf for more information
 * LECTURE NOTES
   * [OSP-Lec09-Fitting.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205674/OSP-Lec09-Fitting.pdf)
+
+
+
+### 2-8. HW8 - Multi Layer Perceptron
+* Technical Report PDF : [hw8_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205708/tech_report.8_1770044.pdf)
+
+* HW introduction: look at LECTURE NOTE [OSP-Lec12-Backpropagation_MLP_practice.pdf] pdf for more information
+* LECTURE NOTES
+  * [OSP-Lec11-Loss function.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205718/OSP-Lec11-Loss.function.pdf)
+  * [OSP-Lec10-Deep learning_Intro.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205716/OSP-Lec10-Deep.learning_Intro.pdf)
+  * [OSP-Lec12-Backpropagation_MLP.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205717/OSP-Lec12-Backpropagation_MLP.pdf)
+  * [OSP-Lec12-Backpropagation_MLP_practice.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205715/OSP-Lec12-Backpropagation_MLP_practice.pdf)
 
 
