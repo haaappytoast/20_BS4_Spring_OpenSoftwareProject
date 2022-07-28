@@ -85,6 +85,7 @@ This project requires:
 
 
 ### 2-8. HW8 - Multi Layer Perceptron
+* [HW8 Source Code Google Drive Link](https://drive.google.com/drive/folders/1lHBBFJmK-Y2Oz288rPsswWfeGukfz_8a?usp=sharing)
 * Technical Report PDF : [hw8_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205708/tech_report.8_1770044.pdf)
 
 * HW introduction: look at LECTURE NOTE [OSP-Lec12-Backpropagation_MLP_practice.pdf] pdf for more information
@@ -96,6 +97,7 @@ This project requires:
 
 
 ### 2-9. HW9 - CNN
+* [HW9 Source Code Google Drive Link](https://drive.google.com/drive/folders/1WkwX72FTeTTD_9L0FI2R9fH3tLKgcM8H?usp=sharing)
 * Technical Report PDF : [hw9_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205740/tech_report.9.pdf)
 
 
