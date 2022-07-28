@@ -4,7 +4,7 @@ The purpose of this project is
 2. It also introduces fundaments of deep neural networks and its application to computer vision.
 
 ## 1. Requirments
-#### Code is written in C++ (hw1 ~ 9) & python (hw 10) and uses Visual Studio 2019 for framework 
+#### Code is written in C++ (hw1 ~ 7) & python (hw 8-10) and uses Visual Studio 2019 for framework 
 This project requires:
 * Visual Studio Community
   * Version: 2019
