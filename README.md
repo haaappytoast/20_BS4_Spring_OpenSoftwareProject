@@ -86,7 +86,7 @@ This project requires:
 
 
 ### 2-8. HW8 - Multi Layer Perceptron
-* [HW8 Source Code Google Drive Link](https://drive.google.com/drive/folders/1lHBBFJmK-Y2Oz288rPsswWfeGukfz_8a?usp=sharing)
+* [HW8 Source Code Google Drive Link (https://drive.google.com/drive/folders/1eXRKV3YMmvUQ9VjbXwhRDsdTK57bib73?usp=sharing)
 * Technical Report PDF : [hw8_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205708/tech_report.8_1770044.pdf)
 
 * HW introduction: look at LECTURE NOTE [OSP-Lec12-Backpropagation_MLP_practice.pdf] pdf for more information (especially p.14~16)
@@ -98,7 +98,7 @@ This project requires:
 
 
 ### 2-9. HW9 - CNN
-* [HW9 Source Code Google Drive Link](https://drive.google.com/drive/folders/1WkwX72FTeTTD_9L0FI2R9fH3tLKgcM8H?usp=sharing)
+* [HW9 Source Code Google Drive Link](https://drive.google.com/drive/folders/1euLIDagGcYsQG9GpU9PpfQjQvVOBelFI?usp=sharing)
 * Technical Report PDF : [hw9_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205740/tech_report.9.pdf)
 
 
@@ -108,8 +108,8 @@ This project requires:
   * [OSP-Lec14-CNN architecture.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205742/OSP-Lec14-CNN.architecture.pdf)
   * [OSP-Lec14-CNN architecture-practice-v2.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205743/OSP-Lec14-CNN.architecture-practice-v2.pdf)
 
-### 2-9. HW10 - Encoder & Decoder
-* [HW10 Source Code Google Drive Link](https://drive.google.com/drive/folders/1xYRtkjVk5ZRoY5jb2JnxobQmah84ucot?usp=sharing)
+### 2-10. HW10 - Encoder & Decoder
+* [HW10 Source Code Google Drive Link](https://drive.google.com/drive/folders/1aM2wNKGJGP-87KzL7y2MUgbd2Jldyf3e?usp=sharing)
 * Technical Report PDF : [hw10_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205851/tech_report.10_1770044.pdf)
 
 * HW introduction: look at LECTURE NOTE [OSP-Lec15-Encoder_Decoder-practice-v2.pdf] pdf for more information (especially p.5~11)
