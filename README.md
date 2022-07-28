@@ -88,7 +88,7 @@ This project requires:
 * [HW8 Source Code Google Drive Link](https://drive.google.com/drive/folders/1lHBBFJmK-Y2Oz288rPsswWfeGukfz_8a?usp=sharing)
 * Technical Report PDF : [hw8_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205708/tech_report.8_1770044.pdf)
 
-* HW introduction: look at LECTURE NOTE [OSP-Lec12-Backpropagation_MLP_practice.pdf] pdf for more information
+* HW introduction: look at LECTURE NOTE [OSP-Lec12-Backpropagation_MLP_practice.pdf] pdf for more information (especially p.14~16)
 * LECTURE NOTES
   * [OSP-Lec11-Loss function.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205718/OSP-Lec11-Loss.function.pdf)
   * [OSP-Lec10-Deep learning_Intro.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205716/OSP-Lec10-Deep.learning_Intro.pdf)
@@ -101,10 +101,20 @@ This project requires:
 * Technical Report PDF : [hw9_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205740/tech_report.9.pdf)
 
 
-* HW introduction: look at LECTURE NOTE [OSP-Lec14-CNN architecture-practice-v2.pdf] pdf for more information
+* HW introduction: look at LECTURE NOTE [OSP-Lec14-CNN architecture-practice-v2.pdf] pdf for more information (especially p.22~31)
 * LECTURE NOTES
   * [OSP-Lec13-CNN.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205744/OSP-Lec13-CNN.pdf)
   * [OSP-Lec14-CNN architecture.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205742/OSP-Lec14-CNN.architecture.pdf)
   * [OSP-Lec14-CNN architecture-practice-v2.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205743/OSP-Lec14-CNN.architecture-practice-v2.pdf)
+
+### 2-9. HW10 - Encoder & Decoder
+* [HW10 Source Code Google Drive Link](https://drive.google.com/drive/folders/1xYRtkjVk5ZRoY5jb2JnxobQmah84ucot?usp=sharing)
+* Technical Report PDF : [hw10_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205851/tech_report.10_1770044.pdf)
+
+* HW introduction: look at LECTURE NOTE [OSP-Lec15-Encoder_Decoder-practice-v2.pdf] pdf for more information (especially p.5~11)
+* LECTURE NOTES
+  * [OSP-More on deep learning.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205855/OSP-More.on.deep.learning.pdf)
+  * [OSP-Lec15-Encoder_Decoder.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205856/OSP-Lec15-Encoder_Decoder.pdf)
+  * [OSP-Lec15-Encoder_Decoder-practice-v2.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205865/OSP-Lec15-Encoder_Decoder-practice-v2.pdf)
 
 
