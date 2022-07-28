@@ -74,3 +74,12 @@ This project requires:
   * [OSP-Lec08-Descriptor.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205649/OSP-Lec08-Descriptor.pdf)
 
 
+### 2-8. Affine/Hough Transformation
+* Technical Report PDF : [hw7_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205677/tech_report.7.pdf)
+
+
+* HW introduction: look at p.28-31 in LECTURE NOTE pdf for more information
+* LECTURE NOTES
+  * [OSP-Lec09-Fitting.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205674/OSP-Lec09-Fitting.pdf)
+
+
