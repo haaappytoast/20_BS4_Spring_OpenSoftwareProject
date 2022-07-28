@@ -59,3 +59,11 @@ This project requires:
   * [OSP-Lec06-Segmentation.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205603/OSP-Lec06-Segmentation.pdf)
 
 
+### 2-5. HW5 - Edge/Corner Detection
+* Technical Report PDF : [hw5_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205624/tech_report.5.pdf)
+
+* HW introduction: look at p.40-42 in LECTURE NOTE pdf for more information
+* LECTURE NOTES
+  * [OSP-Lec07-Edge_Corner.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205629/OSP-Lec07-Edge_Corner.pdf)
+
+
