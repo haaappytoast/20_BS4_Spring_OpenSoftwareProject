@@ -16,6 +16,8 @@ This project requires:
 
 ## 2. Introduction
 ### 2-1. HW1 - Rotating & Stitching
+* Technical Report PDF : [hw1_technical_report_1770044_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205492/hw1_technical_report_1770044_.pdf)
+
 * pdf file: look at p.41 - 43 in pdf for more information : [Rotating.Stitching.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205467/Rotating.Stitching.pdf)
 * LECTURE NOTES
   * [OSP-Lec00-Introduction.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205471/OSP-Lec00-Introduction.pdf)
