@@ -95,3 +95,14 @@ This project requires:
   * [OSP-Lec12-Backpropagation_MLP_practice.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205715/OSP-Lec12-Backpropagation_MLP_practice.pdf)
 
 
+### 2-9. HW9 - CNN
+* Technical Report PDF : [hw9_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205740/tech_report.9.pdf)
+
+
+* HW introduction: look at LECTURE NOTE [OSP-Lec14-CNN architecture-practice-v2.pdf] pdf for more information
+* LECTURE NOTES
+  * [OSP-Lec13-CNN.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205744/OSP-Lec13-CNN.pdf)
+  * [OSP-Lec14-CNN architecture.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205742/OSP-Lec14-CNN.architecture.pdf)
+  * [OSP-Lec14-CNN architecture-practice-v2.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205743/OSP-Lec14-CNN.architecture-practice-v2.pdf)
+
+
