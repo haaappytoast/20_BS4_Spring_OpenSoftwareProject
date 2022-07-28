@@ -85,11 +85,12 @@ This project requires:
 
 
 ----------
-## [Source Code Google Drive Link] (https://drive.google.com/drive/folders/1lzm-SrN9xBZi7J9t3AY1HO-aGe8-oOdv?usp=sharing)
+## [Source Code Google Drive Link] 
+ [Source Code Google Drive Link](https://drive.google.com/drive/folders/1lzm-SrN9xBZi7J9t3AY1HO-aGe8-oOdv?usp=sharing)
   * Since files are too large to upload in github, I share google drive link
 
 ### 2-8. HW8 - Multi Layer Perceptron
-* [HW8 Source Code Google Drive Link (https://drive.google.com/drive/folders/1eXRKV3YMmvUQ9VjbXwhRDsdTK57bib73?usp=sharing)
+* [HW8 Source Code Google Drive Link](https://drive.google.com/drive/folders/1eXRKV3YMmvUQ9VjbXwhRDsdTK57bib73?usp=sharing)
 * Technical Report PDF : [hw8_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205708/tech_report.8_1770044.pdf)
 
 * HW introduction: look at LECTURE NOTE [OSP-Lec12-Backpropagation_MLP_practice.pdf] pdf for more information (especially p.14~16)
