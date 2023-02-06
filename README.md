@@ -3,6 +3,19 @@ The purpose of this project is
 1. To explore about introductory theories in image processing, which serves as a basic unit for studying computer vision.
 2. It also introduces fundaments of deep neural networks and its application to computer vision.
 
+Briefly speaking, I implemented codes of 
+~~~
+- Rotating, stitching of images
+- Showing histogram of images
+- Filters of images, specifically, gray filter, uniform mean filter, gaussian filter, sobel filter, laplacian filter, and unsharpMasking filter
+- Salt and pepper noise, gaussian noise removals using median filter, mean filter, bilateral filters and etc.
+- Edge/corner detection
+- SIFT
+- Affine/Hough transformation
+~~~
+For more details, please refer to technical report PDF in each section.
+
+
 ## 1. Requirments
 #### HW1 - 7: Code is written in C++ and uses Visual Studio 2019 for framework 
 This project requires:
@@ -19,14 +32,27 @@ This project requires:
 ### 2-1. HW1 - Rotating & Stitching
 * Technical Report PDF : [hw1_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205492/hw1_technical_report_1770044_.pdf)
 
+  
+#### 2-1-1. Results
+
+**2-1-1.a. Rotation using interpolation method of bilinear (left) and nearest (right)**
+
+<image src = "https://user-images.githubusercontent.com/45995611/216963458-ca5ccdb5-7094-4187-92de-4b30a0fd5a2c.png" width="30%" height="30%"></left>
+<image src = "https://user-images.githubusercontent.com/45995611/216963894-099785e7-5ff0-4ed2-8463-04d7ba38aad9.png" width="30%" height="30%"></right>
+
+**2-1-1.b. Stitching using inverse warping**
+
+<image src = "https://user-images.githubusercontent.com/45995611/216965144-7666dd3d-a0bd-4141-bbab-68ad10340dc8.png" width="50%" height="50%"></right>
+
+
+2. 
 * HW introduction: look at p.41 - 43 in pdf for more information : [Rotating.Stitching.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205467/Rotating.Stitching.pdf)
 * LECTURE NOTES
   * [OSP-Lec00-Introduction.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205471/OSP-Lec00-Introduction.pdf)
   * [OSP-Lec01-Fundamentals.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205472/OSP-Lec01-Fundamentals.pdf)
   * [OSP-Lec02-Display.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205469/OSP-Lec02-Display.pdf)
   * [OSP-Lec02-Display-Lab.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205468/OSP-Lec02-Display-Lab.pdf)
-  
-  
+
 ### 2-2. HW2 - Histogram
 * Technical Report PDF : [hw2_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205535/hw2_technical_report_1770044_SYR.pdf)
 
