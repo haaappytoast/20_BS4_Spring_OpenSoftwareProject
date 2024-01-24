@@ -30,7 +30,6 @@ This project requires:
 
 # 2. Introduction
 ## 2-1. Rotating & Stitching (HW1)
-* Technical Report PDF : [hw1_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205492/hw1_technical_report_1770044_.pdf)
 
 ### Results
 
@@ -55,7 +54,6 @@ This project requires:
 
 
 ## 2-2. Histogram (HW2)
-* Technical Report PDF : [hw2_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205535/hw2_technical_report_1770044_SYR.pdf)
 
 ### Results
 
@@ -72,8 +70,6 @@ This project requires:
   <br/><br/>
 
 ## 2-3. Filters (HW3)
-* Technical Report PDF : [hw3_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205570/hw3_technical_report_SYR.pdf)
-* Writing HW:[convolution_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205573/report.convolution._1770044.pdf) (Look at p.39 in LECTURE NOTE pdf for more information)
 
 ### Results
 
@@ -95,10 +91,10 @@ This project requires:
 >* LECTURE NOTES
 >  * [OSP-Lec04-Region.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205566/OSP-Lec04-Region.pdf)
 
-    <br/><br/>
-## 2-4. Noise Removal & Segmentation (HW4)
 
-* Technical Report PDF : [hw4_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205592/hw4_technical_report_SYR.pdf)
+<br/><br/>
+
+## 2-4. Noise Removal & Segmentation (HW4)
 * Segmentation 프로그램 사용결과: [Mean shift segmentation(프로그램 사용결과).pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205593/Mean.shift.segmentation.pdf)
 
 >**ETC**
@@ -112,14 +108,12 @@ This project requires:
 
 
 ## 2-5. Edge/Corner Detection (HW5)
-* Technical Report PDF : [hw5_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205624/tech_report.5.pdf)
 
 >* HW introduction: look at p.40-42 in LECTURE NOTE pdf for more information
 >* LECTURE NOTES
 >  * [OSP-Lec07-Edge_Corner.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205629/OSP-Lec07-Edge_Corner.pdf)
 
 ## 2-6. HW6 - SIFT (HW6)
-* Technical Report PDF : [hw6_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205648/tech_report.6.pdf)
 
 >* HW introduction: look at p.27-28 in LECTURE NOTE pdf for more information
 >* LECTURE NOTES
@@ -127,7 +121,6 @@ This project requires:
 
 
 ## 2-7. HW7 - Affine/Hough Transformation
-* Technical Report PDF : [hw7_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205677/tech_report.7.pdf)
 
 > **ETC**
 > * HW introduction: look at p.28-31 in LECTURE NOTE pdf for more information
@@ -137,13 +130,14 @@ This project requires:
 
 ----------
 ## [Source Code Google Drive Link] 
- [Source Code Google Drive Link](https://drive.google.com/drive/folders/1lzm-SrN9xBZi7J9t3AY1HO-aGe8-oOdv?usp=sharing)
-  * Since files are too large to upload in github, I share google drive link
+* Since files are too large to upload in github, I will share google drive link if you request
 
-### 2-8. HW8 - Multi Layer Perceptron
-* [HW8 Source Code Google Drive Link](https://drive.google.com/drive/folders/1eXRKV3YMmvUQ9VjbXwhRDsdTK57bib73?usp=sharing)
-* Technical Report PDF : [hw8_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205708/tech_report.8_1770044.pdf)
+## 2-8. HW8 - Multi Layer Perceptron
 
+### [Source Code Google Drive Link] 
+* Since files are too large to upload in github, I will share google drive link if you request
+
+  
 > **ETC**
 >* HW introduction: look at LECTURE NOTE [OSP-Lec12-Backpropagation_MLP_practice.pdf] pdf for more information (especially p.14~16)
 >* LECTURE NOTES
@@ -154,8 +148,10 @@ This project requires:
 
 
 ## 2-9. HW9 - CNN
-* [HW9 Source Code Google Drive Link](https://drive.google.com/drive/folders/1euLIDagGcYsQG9GpU9PpfQjQvVOBelFI?usp=sharing)
-* Technical Report PDF : [hw9_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205740/tech_report.9.pdf)
+
+
+### [Source Code Google Drive Link] 
+* Since files are too large to upload in github, I will share google drive link if you request
 
 > **ETC**
 >* HW introduction: look at LECTURE NOTE [OSP-Lec14-CNN architecture-practice-v2.pdf] pdf for more information (especially p.22~31)
@@ -165,8 +161,12 @@ This project requires:
 >  * [OSP-Lec14-CNN architecture-practice-v2.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205743/OSP-Lec14-CNN.architecture-practice-v2.pdf)
 
 ## 2-10. HW10 - Encoder & Decoder
-* [HW10 Source Code Google Drive Link](https://drive.google.com/drive/folders/1aM2wNKGJGP-87KzL7y2MUgbd2Jldyf3e?usp=sharing)
-* Technical Report PDF : [hw10_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205851/tech_report.10_1770044.pdf)
+
+
+### [Source Code Google Drive Link] 
+* Since files are too large to upload in github, I will share google drive link if you request
+
+
 > **ETC**
 >* HW introduction: look at LECTURE NOTE [OSP-Lec15-Encoder_Decoder-practice-v2.pdf] pdf for more information (especially p.5~11)
 >* LECTURE NOTES
