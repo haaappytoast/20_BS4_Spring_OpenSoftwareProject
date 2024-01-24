@@ -13,7 +13,9 @@ Briefly speaking, I implemented codes of
 - SIFT
 - Affine/Hough transformation
 ~~~
-For more details, please refer to technical report PDF in each section.
+## Technical report
+* For more details about code, experiments, and analysis, please refer to technical report PDF. <br/>
+* If you request me by yrs1107@gmail, I'll send you them. (Written in Korean) 
 
 
 # 1. Requirments
