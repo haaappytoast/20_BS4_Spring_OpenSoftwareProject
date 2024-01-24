@@ -148,9 +148,27 @@ This project requires:
 >* LECTURE NOTES
 >  * [OSP-Lec08-Descriptor.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205649/OSP-Lec08-Descriptor.pdf)
 
+**keypoint matching results with different threshold of ratio**
+
+<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/0afdbaed-204f-4e46-9647-efec17bb8d5d" width="50%" height="50%"></left>
+
+
 <br/><br/>
 
 ## 2-7. HW7 - Affine/Hough Transformation
+
+
+### Results
+**Application: Stitching: SIFT + Affine Tranform**
+
+<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/c25a5760-a1e0-4e79-89b2-a84b22656b4b" width="100%" height="100%"></left>
+
+<br/><br/>
+
+**Hough Transformation using HoughlinesP function in OpenCV**
+
+<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/68dc866d-0622-44e6-951c-77c34e0234eb" width="80%" height="80%"></left>
+
 
 > **ETC**
 > * HW introduction: look at p.28-31 in LECTURE NOTE pdf for more information
@@ -159,8 +177,7 @@ This project requires:
 
 
 ----------
-## [Source Code Google Drive Link] 
-* Since files are too large to upload in github, I will share google drive link if you request
+<br/><br/>
 
 ## 2-8. HW8 - Multi Layer Perceptron
 
@@ -179,7 +196,6 @@ This project requires:
 
 ## 2-9. HW9 - CNN
 
-
 ### [Source Code Google Drive Link] 
 * Since files are too large to upload in github, I will share google drive link if you request
 
@@ -191,7 +207,6 @@ This project requires:
 >  * [OSP-Lec14-CNN architecture-practice-v2.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205743/OSP-Lec14-CNN.architecture-practice-v2.pdf)
 
 ## 2-10. HW10 - Encoder & Decoder
-
 
 ### [Source Code Google Drive Link] 
 * Since files are too large to upload in github, I will share google drive link if you request
