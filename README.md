@@ -84,8 +84,8 @@ This project requires:
 
 <image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/abf89ac7-3ab7-4e54-80e1-0ff8dea0a1de" width="50%" height="50%"></left>
 
-**Gaussian Filter: according to filter size**
-
+**Gaussian Filter: according to filter size**<br/><br/>
+**Analysis** <br/>
 * 그림 12의 오른쪽 그림과 그림 13을 보자. 각각 Gaussian filter(3x3, sigma = 1)을 거친 결과와 Gaussian filter (11x11, sigma = 1)을 거친 결과이다. <br/>
 둘 다 sigma = 1 로 적용하였기 때문에 픽셀의 값은 중간에서 가장 높게 나타나며 sigma가 큰 경우보다 주변 값의 영향을 다소 적게 받는다. 따라서 smoothing 효과가 매우 자연스럽게 적용되었다. 그림 12보다 그림 13에서 필터사이즈가 컸으므로 아주 조금 더 smoothing 효과가 더 나타난 것을 확인할 수 있다. <br/>
 그림 14을 보자. sigma = 5로 filter을 적용하였기 때문에, 그림 13의 같은 크기의 필터 사이즈((11x11, sigma = 1)를 가진 필터로 적용했을 때보다 더 많이 smoothing 효과가 나타났음을 확인할 수 있었다.
@@ -120,7 +120,7 @@ This project requires:
 
 ### Results
 
-**Gaussian Noise Removal: using Gaussian Filter**
+**Gaussian Noise Removal: using Gaussian Filter**<br/>
 **Analysis** <br/>
 그림 4는 Gaussian Noise가 추가된 그림이다. Salt and pepper noise가 추가된 그림보다 잔잔하게 noise가 깔렸다는 것을 확인할 수 있다. 그 이유는 salt and pepper noise는 극단적인 값인 0 또는 255만 가졌다면 Gaussian Noise는 Gaussian Distribution을 따르기 때문이다. <br/>
 그림 5를 확인해보자. noise가 없어졌음을 확인할 수 있다. 하지만, Gaussian Filter은 Low pass Filter이기 때문에 edge부분들이 많이 소실되어 흐릿해졌음을 볼 수 있다. <br/> <br/>
