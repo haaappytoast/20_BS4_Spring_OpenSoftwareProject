@@ -33,19 +33,18 @@ This project requires:
 * Technical Report PDF : [hw1_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205492/hw1_technical_report_1770044_.pdf)
 
   
-#### 2-1-1. Results
+#### Results
 
-**2-1-1.a. Rotation using interpolation method of bilinear (left) and nearest (right)**
+**Rotation using interpolation method of bilinear (left) and nearest (right)**
 
 <image src = "https://user-images.githubusercontent.com/45995611/216963458-ca5ccdb5-7094-4187-92de-4b30a0fd5a2c.png" width="30%" height="30%"></left>
 <image src = "https://user-images.githubusercontent.com/45995611/216963894-099785e7-5ff0-4ed2-8463-04d7ba38aad9.png" width="30%" height="30%"></right>
 
-**2-1-1.b. Stitching using inverse warping**
+**Stitching using inverse warping**
 
 <image src = "https://user-images.githubusercontent.com/45995611/216965144-7666dd3d-a0bd-4141-bbab-68ad10340dc8.png" width="50%" height="50%"></right>
 
-
-2. 
+**ETC**
 * HW introduction: look at p.41 - 43 in pdf for more information : [Rotating.Stitching.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205467/Rotating.Stitching.pdf)
 * LECTURE NOTES
   * [OSP-Lec00-Introduction.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205471/OSP-Lec00-Introduction.pdf)
@@ -56,7 +55,13 @@ This project requires:
 ### 2-2. HW2 - Histogram
 * Technical Report PDF : [hw2_technical_report_SYR.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205535/hw2_technical_report_1770044_SYR.pdf)
 
+#### Results
 
+**Input image, grayscal image, and corresponding histograms**
+
+<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/ab99b045-e9b2-49b1-9ab1-9f937b89d95c" width="50%" height="50%"></left>
+
+**ETC**
 * HW introduction: look at p.34 - 44 in LECTURE NOTE pdf for more information
 * LECTURE NOTES
   * [OSP-Lec03-Pixel.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205532/OSP-Lec03-Pixel.pdf)
