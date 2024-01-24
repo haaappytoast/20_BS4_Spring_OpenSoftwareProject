@@ -1,5 +1,9 @@
 # 20_BS4_Spring_OpenSoftwareProject
-The purpose of this project is 
+
+
+# 1. Introduction
+
+## The purpose of this project is 
 1. To explore about introductory theories in image processing, which serves as a basic unit for studying computer vision.
 2. It also introduces fundaments of deep neural networks and its application to computer vision.
 
@@ -13,12 +17,16 @@ Briefly speaking, I implemented codes of
 - SIFT
 - Affine/Hough transformation
 ~~~
+
+<br/>
+
 ## Technical report
 * For more details about code, experiments, and analysis, please refer to technical report PDF. <br/>
 * If you request me by yrs1107@gmail, I'll send you them. (Written in Korean) 
 
+<br/>
 
-# 1. Requirments
+# 2. Requirments
 #### HW1 - 7: Code is written in C++ and uses Visual Studio 2019 for framework 
 This project requires:
 * Visual Studio Community
@@ -30,7 +38,8 @@ This project requires:
 #### HW8 - 10: Code is written in Python and I left google drive share link b/c of storage issues
 ----------
 
-# 2. Introduction
+# 3. Results and Analysis
+
 ## 2-1. Rotating & Stitching (HW1)
 
 ### Results
@@ -76,7 +85,14 @@ This project requires:
 ### Results
 **Mean Filter: according to filter size**
 
-**Analysis**
+<br/>
+
+<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/abf89ac7-3ab7-4e54-80e1-0ff8dea0a1de" width="50%" height="50%"></left>
+
+<br/>
+
+**Analysis** <br/>
+
 * 그림 4 에서와 같이 uniform mean filter을 거친 그림은 사진이 흐릿해져 보인다. 이 이유를 살펴보자면, filter을 통해서, 주변 값들의 평균을 output 픽셀 값에 넣으니, 원래는 선명했던 edge부분들이 다 평균화되면서 모두 옆의 주변 값들과 값이 얼추 맞춰졌기 때문이다.
 * 그림 5와 그림 6을 살펴보자. 둘 다, zero-paddle 기법을 사용한 mean filter을 거친 이후의 output이다. 다만, 그림 5는 9x9 filter를, 그림 6은 25x25 filter를 사용하였다. 더 큰 filter size를 사용한 그림 6이 더 많이 blur된
 모습을 볼 수 있다. 이유는 더 많은 주변 값들로 평균을 취했기 때문에 더 넓은 범위에서 평균화가 되어서이다. <br\>
@@ -84,18 +100,18 @@ This project requires:
 
 <br/>
 
-<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/abf89ac7-3ab7-4e54-80e1-0ff8dea0a1de" width="50%" height="50%"></left>
-
 **Gaussian Filter: according to filter size**<br/><br/>
+ 
+<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/b9c5aff5-727f-4526-811f-966bec32db12" width="50%" height="50%"></left>
+
+<br/>
+
 **Analysis** <br/>
 * 그림 12의 오른쪽 그림과 그림 13을 보자. 각각 Gaussian filter(3x3, sigma = 1)을 거친 결과와 Gaussian filter (11x11, sigma = 1)을 거친 결과이다. <br/>
 둘 다 sigma = 1 로 적용하였기 때문에 픽셀의 값은 중간에서 가장 높게 나타나며 sigma가 큰 경우보다 주변 값의 영향을 다소 적게 받는다. 따라서 smoothing 효과가 매우 자연스럽게 적용되었다. 그림 12보다 그림 13에서 필터사이즈가 컸으므로 아주 조금 더 smoothing 효과가 더 나타난 것을 확인할 수 있다. <br/>
 그림 14을 보자. sigma = 5로 filter을 적용하였기 때문에, 그림 13의 같은 크기의 필터 사이즈((11x11, sigma = 1)를 가진 필터로 적용했을 때보다 더 많이 smoothing 효과가 나타났음을 확인할 수 있었다.
 
  <br/>
- 
-<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/b9c5aff5-727f-4526-811f-966bec32db12" width="50%" height="50%"></left>
-
 
 **Sobel Filter: grayscale and RGB image**
 
@@ -111,23 +127,27 @@ This project requires:
 
 ## 2-4. Noise Removal & Segmentation (HW4)
 * Segmentation 프로그램 사용결과: [Mean shift segmentation(프로그램 사용결과).pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205593/Mean.shift.segmentation.pdf)
+
 <br/>
+
 ### Results
 
 **Salt and Pepper Noise Removal: using Mean Filter**
 
+<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/ebb46495-acae-45b0-8e2b-412df1fb92b5" width="70%" height="70%"></left>
+
 **Analysis** <br/>
 그림 9, 10을 보자. 그림 10은 그림 9의 median filter을 거친 후 모습이다. 그림 9( noise : 20 % )는 앞선 그림 4( noise : 10% )보다 salt and pepper noise의 비율이 2배 높다. 따라서, 그림 10에서 볼 수 있듯이, median filter가 중간 중간에 죽여주지 못한 noise들이 다소 존재함을 볼 수 있다. <br/> <br/>
-<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/ebb46495-acae-45b0-8e2b-412df1fb92b5" width="70%" height="70%"></left>
 
 ### Results
 
 **Gaussian Noise Removal: using Gaussian Filter**<br/>
+
+<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/66685efc-bc8c-4d87-80fe-72663deb6bcc" width="40%" height="40%"></left> <br/>
+
 **Analysis** <br/>
 그림 4는 Gaussian Noise가 추가된 그림이다. Salt and pepper noise가 추가된 그림보다 잔잔하게 noise가 깔렸다는 것을 확인할 수 있다. 그 이유는 salt and pepper noise는 극단적인 값인 0 또는 255만 가졌다면 Gaussian Noise는 Gaussian Distribution을 따르기 때문이다. <br/>
 그림 5를 확인해보자. noise가 없어졌음을 확인할 수 있다. 하지만, Gaussian Filter은 Low pass Filter이기 때문에 edge부분들이 많이 소실되어 흐릿해졌음을 볼 수 있다. <br/> <br/>
-<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/66685efc-bc8c-4d87-80fe-72663deb6bcc" width="40%" height="40%"></left> <br/>
-
 
 >**ETC**
 >* HW introduction
@@ -143,14 +163,14 @@ This project requires:
 
 ### Results
 
-**Noise가 섞인 이미지를 Gaussian Filter를 적용한 후, Laplacian filter 적용**
+**Noise가 섞인 이미지를 Gaussian Filter를 적용한 후, Laplacian filter 적용** <br/>
+
+<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/412e6c7e-9dc2-4e5a-8028-8c0e6b17ea2b" width="100%" height="100%"></left>  <br/>
+
 
 **Analysis**
 * Gaussian filter의 sigma를 높여주었을 때의 효과에 대해 살펴보았다. sigma가 커졌다는 것은 옆 주변의 pixel 값들을 많이 죽이지 않는다는 뜻이다( blurring이 덜 됨) 따라서 그림4와 마찬가지로
-짜잘짜잘한 노이즈들이 남아서 edge로 detect된 것을 확인할 수 있었다. (빨간색 동그라미 친 곳)
-
-<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/412e6c7e-9dc2-4e5a-8028-8c0e6b17ea2b" width="100%" height="100%"></left>
-
+짜잘짜잘한 노이즈들이 남아서 edge로 detect된 것을 확인할 수 있었다. (빨간색 동그라미 친 곳)  <br/>
 
 >**ETC**
 >* HW introduction: look at p.40-42 in LECTURE NOTE pdf for more information
@@ -160,41 +180,43 @@ This project requires:
 ## 2-6. HW6 - SIFT (HW6)
 ### Results
 
-**Input images, I1 and I2 (left) and keypoint matching results (right)**
+**Input images, I1 and I2 (left) and keypoint matching results (right)**  <br/>
 
 <image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/7e7e15a3-70b2-4252-a2c4-ce37119bc908" width="100%" height="100%"></left>
 
+ <br/>
+ 
+ >**ETC**
 >* HW introduction: look at p.27-28 in LECTURE NOTE pdf for more information
 >* LECTURE NOTES
->  * [OSP-Lec08-Descriptor.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205649/OSP-Lec08-Descriptor.pdf)
+>  * [OSP-Lec08-Descriptor.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205649/OSP-Lec08-Descriptor.pdf) <br/><br/>
 
-**keypoint matching results with different threshold of ratio**
+**keypoint matching results with different threshold of ratio**>**ETC**
 
 <image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/0afdbaed-204f-4e46-9647-efec17bb8d5d" width="50%" height="50%"></left>
-
 
 <br/><br/>
 
 ## 2-7. HW7 - Affine/Hough Transformation
 
-
 ### Results
 **Application: Stitching: SIFT + Affine Tranform**
 
-**Analysis** <br\>
+<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/c25a5760-a1e0-4e79-89b2-a84b22656b4b" width="100%" height="100%"></left> <br/>
+
+**Analysis** <br/>
 * RANSAC을 적용하여 affine transformation을 한 결과, threshold를 해주기 때문에, inlier가 SIFT descriptor에서 얻은 keypoints의 개수보다 작다. 즉 affine transform T를 구할 때
 사용하는 점의 개수가 훨씬 적다는 것이다. RANSAC은 SIFT에서 keypoints들을 찾을 때 제거하지 못한 outlier들을 효과적으로 제거할 수 있는 방법이다. <br/>
 하지만, 필자가 RANSAC을 적용해보았을 때에는 오히려 RANSAC을 적용하지 않은 그림보다 RANSAC을 적용한 그림 3,4에서 좀 더 흔들림을 볼 수 있었다. 필자가 이에 대해서 생각해보았을 때는 이미 SIFT에서 ratio-thresholding과 cross-checking을 하면서 많은 outlier들이 제거되었기 때문이라고 생각을 하였다.
-<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/c25a5760-a1e0-4e79-89b2-a84b22656b4b" width="100%" height="100%"></left>
 
 <br/><br/>
 
-**Hough Transformation using HoughlinesP function in OpenCV**
+**Hough Transformation using HoughlinesP function in OpenCV** <br/>
 
-**Analysis** <br\>
-오른쪽 그림이 왼쪽 그림보다 accumulator에 나오는 수에 대해 threshold를 더 크게 잡았을 때이다. 이에 따라서, strict하게 line을 검출하였기 때문에 그림 1보다 더 적은 line이 검출되었음을 알 수 있다.
 <image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/68dc866d-0622-44e6-951c-77c34e0234eb" width="80%" height="80%"></left>
 
+**Analysis** <br/>
+오른쪽 그림이 왼쪽 그림보다 accumulator에 나오는 수에 대해 threshold를 더 크게 잡았을 때이다. 이에 따라서, strict하게 line을 검출하였기 때문에 그림 1보다 더 적은 line이 검출되었음을 알 수 있다.
 
 > **ETC**
 > * HW introduction: look at p.28-31 in LECTURE NOTE pdf for more information
