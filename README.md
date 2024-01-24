@@ -8,7 +8,7 @@ Briefly speaking, I implemented codes of
 - Rotating, stitching of images
 - Showing histogram of images
 - Filters of images, specifically, gray filter, uniform mean filter, gaussian filter, sobel filter, laplacian filter, and unsharpMasking filter
-- Salt and pepper noise, gaussian noise removals using median filter, mean filter, bilateral filters and etc.
+- Salt and pepper noise, gaussian noise removals using median filter, mean filter, gaussian filters and etc.
 - Edge/corner detection
 - SIFT
 - Affine/Hough transformation
@@ -96,6 +96,18 @@ This project requires:
 
 ## 2-4. Noise Removal & Segmentation (HW4)
 * Segmentation 프로그램 사용결과: [Mean shift segmentation(프로그램 사용결과).pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205593/Mean.shift.segmentation.pdf)
+### Results
+
+**Salt and Pepper Noise Removal: using Mean Filter**
+
+<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/ebb46495-acae-45b0-8e2b-412df1fb92b5" width="70%" height="70%"></left>
+
+### Results
+
+**Gaussian Noise Removal: using Gaussian Filter**
+
+<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/66685efc-bc8c-4d87-80fe-72663deb6bcc" width="40%" height="40%"></left>
+
 
 >**ETC**
 >* HW introduction
@@ -109,16 +121,34 @@ This project requires:
 
 ## 2-5. Edge/Corner Detection (HW5)
 
+### Results
+
+**Noise가 섞인 이미지를 Gaussian Filter를 적용한 후, Laplacian filter 적용**
+
+**Analysis**
+* Gaussian filter의 sigma를 높여주었을 때의 효과에 대해 살펴보았다. sigma가 커졌다는 것은 옆 주변의 pixel 값들을 많이 죽이지 않는다는 뜻이다( blurring이 덜 됨) 따라서 그림4와 마찬가지로
+짜잘짜잘한 노이즈들이 남아서 edge로 detect된 것을 확인할 수 있었다. (빨간색 동그라미 친 곳)
+
+<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/412e6c7e-9dc2-4e5a-8028-8c0e6b17ea2b" width="100%" height="100%"></left>
+
+
+>**ETC**
 >* HW introduction: look at p.40-42 in LECTURE NOTE pdf for more information
 >* LECTURE NOTES
 >  * [OSP-Lec07-Edge_Corner.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205629/OSP-Lec07-Edge_Corner.pdf)
 
 ## 2-6. HW6 - SIFT (HW6)
+### Results
+
+**Input images, I1 and I2 (left) and keypoint matching results (right)**
+
+<image src = "https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/assets/45995611/7e7e15a3-70b2-4252-a2c4-ce37119bc908" width="100%" height="100%"></left>
 
 >* HW introduction: look at p.27-28 in LECTURE NOTE pdf for more information
 >* LECTURE NOTES
 >  * [OSP-Lec08-Descriptor.pdf](https://github.com/haaappytoast/20_BS4_Spring_OpenSoftwareProject/files/9205649/OSP-Lec08-Descriptor.pdf)
 
+<br/><br/>
 
 ## 2-7. HW7 - Affine/Hough Transformation
 
